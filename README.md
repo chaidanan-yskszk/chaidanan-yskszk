@@ -5,11 +5,11 @@
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/527383789475856426" />
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/615101404822110209" />
 </p>
-<p align="center"> <img src="https://count.getloli.com/get/@masuru-aomsin?theme=rule34" alt="masuru-aomsin" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@aomkoyo?theme=rule34" alt="masuru-aomsin" /> </p>
 <p align="center"> <img src="https://count.getloli.com/get/@chaidanan-yskszk?theme=gelbooru" alt="chaidanan-yskszk" /> </p>
 
 <p align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=masuru-aomsin&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masuru-aomsin&layout=compact&count_private=true&theme=dracula" alt="Masuru" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=aomkoyo&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomkoyo&layout=compact&count_private=true&theme=dracula" alt="Masuru" />
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=chaidanan-yskszk&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaidanan-yskszk&layout=compact&count_private=true&theme=dracula" alt="Shira" />
 </p>
 
